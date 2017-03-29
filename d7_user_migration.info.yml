@@ -1,0 +1,5 @@
+name: d7_user_migration
+description: 'D7 user Migration'
+type: module
+package: Custom
+core: 8.x
